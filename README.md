@@ -6,6 +6,7 @@
 - web-feature-search 访问网站，分析网站特征，生成FOFA、Hunter和谷歌搜索语法。
 - flutter-ssl-analysis 调用ida-pro-mcp，分析libflutter.so，获取ssl_write和ssl_read地址，生成Frida抓包命令。
 - dirsearch-command-generator dirsearch命令生成
+- vulnerability-rating 漏洞定级
 
 其他好用的skills
 
