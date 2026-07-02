@@ -1,0 +1,4 @@
+interface:
+  display_name: "加密 Web 流量分析"
+  short_description: "Analyze encrypted Web traffic and build plaintext proxies"
+  default_prompt: "Use $analyze-encrypted-web-traffic to analyze an authorized Web application encrypted request and response flow and design a verified plaintext inspection proxy."
