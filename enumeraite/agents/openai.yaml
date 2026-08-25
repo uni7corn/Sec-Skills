@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enumeraite"
+  short_description: "Generate and analyze attack-surface candidates"
+  default_prompt: "Use $enumeraite to infer patterns from my authorized seed paths or subdomains and generate ranked candidates."
